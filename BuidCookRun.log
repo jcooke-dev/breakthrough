@@ -1,0 +1,102 @@
+[2026.01.21-02.41.30:273][  0]LogLiveCoding: Error: Unable to start live coding session. Missing executable 'D:/build/++UE5/Sync/Engine/Binaries/Win64/LiveCodingConsole.exe'. Use the LiveCoding.ConsolePath console variable to modify.
+[2026.01.21-02.41.30:556][  0]LogShaderLibrary: Warning: Spent 54.45 ms in a blocking wait for shader preload, NumRefs: 1, FramePreloadStarted: 1, CurrentFrame: 1
+[2026.01.21-02.41.30:556][  0]LogShaderLibrary: Warning: Spent 30.65 ms in a blocking wait for shader preload, NumRefs: 1, FramePreloadStarted: 1, CurrentFrame: 1
+[2026.01.21-02.41.30:556][  0]LogShaderLibrary: Warning: Spent 29.93 ms in a blocking wait for shader preload, NumRefs: 1, FramePreloadStarted: 1, CurrentFrame: 1
+[2026.01.21-02.41.30:556][  0]LogShaderLibrary: Warning: Spent 27.44 ms in a blocking wait for shader preload, NumRefs: 1, FramePreloadStarted: 1, CurrentFrame: 1
+[2026.01.21-02.41.30:556][  0]LogShaderLibrary: Warning: Spent 41.91 ms in a blocking wait for shader preload, NumRefs: 1, FramePreloadStarted: 1, CurrentFrame: 1
+[2026.01.21-02.41.37:163][820]LogD3D12RHI: Error: Failed to create pipeline state with combined hash 3E6C6A2C4DCA50F1, error 80070057.
+[2026.01.21-02.41.37:177][823]LogD3D12RHI: Warning: Failed to create compute PSO with combined hash 0x3E6C6A2C4DCA50F1:
+[2026.01.21-02.41.37:177][823]LogRHI: Error: Failed to create compute pipeline with hash D681FD5E0CE8607CFDED3C923B6327AF8D13E2BC.
+[2026.01.21-02.41.37:177][823]LogRHI: Error: Shader: <unknown>
+[2026.01.21-02.41.52:610][466]LogD3D12RHI: Error: Failed to create pipeline state with combined hash 32CF28BC815B9962, error 80070057.
+[2026.01.21-02.41.52:616][467]LogD3D12RHI: Warning: Failed to create compute PSO with combined hash 0x32CF28BC815B9962:
+[2026.01.21-02.41.52:616][467]LogRHI: Error: Failed to create compute pipeline with hash D8CE900E172E4017DBE1E8D348AECB575DB06935.
+[2026.01.21-02.41.52:616][467]LogRHI: Error: Shader: <unknown>
+[2026.01.21-02.41.52:616][467]LogD3D12RHI: Error: Failed to create pipeline state with combined hash 3141C350BE2B1356, error 80070057.
+[2026.01.21-02.41.52:619][467]LogD3D12RHI: Warning: Failed to create compute PSO with combined hash 0x3141C350BE2B1356:
+[2026.01.21-02.41.52:619][467]LogRHI: Error: Failed to create compute pipeline with hash 71EB4FE016B1EC095C2B8CC3BD2EA93C7DB40254.
+[2026.01.21-02.41.52:619][467]LogRHI: Error: Shader: <unknown>
+[2026.01.21-02.41.52:627][468]LogD3D12RHI: Error: Failed to create pipeline state with combined hash 85CAA699BECD1757, error 80070057.
+[2026.01.21-02.41.52:627][468]LogD3D12RHI: Error: Failed to create pipeline state with combined hash 6061A9105A03352A, error 80070057.
+[2026.01.21-02.41.52:627][468]LogD3D12RHI: Error: Failed to create pipeline state with combined hash CEF41A90D1794B31, error 80070057.
+[2026.01.21-02.41.52:630][468]LogD3D12RHI: Warning: Failed to create compute PSO with combined hash 0x6061A9105A03352A:
+[2026.01.21-02.41.52:630][468]LogRHI: Error: Failed to create compute pipeline with hash 64F6116157B732869B4D821ED67ED1D81330E6F4.
+[2026.01.21-02.41.52:630][468]LogRHI: Error: Shader: <unknown>
+[2026.01.21-02.41.52:634][468]LogD3D12RHI: Warning: Failed to create compute PSO with combined hash 0xCEF41A90D1794B31:
+[2026.01.21-02.41.52:634][468]LogRHI: Error: Failed to create compute pipeline with hash EA2291616C5D81628FE2328CB7B25D48BFCBC185.
+[2026.01.21-02.41.52:634][468]LogRHI: Error: Shader: <unknown>
+[2026.01.21-02.41.52:637][468]LogD3D12RHI: Warning: Failed to create compute PSO with combined hash 0x85CAA699BECD1757:
+[2026.01.21-02.41.52:637][468]LogRHI: Error: Failed to create compute pipeline with hash 8B6FD3EBA93F360A4B71D29423C4BAF1CAF0D8E0.
+[2026.01.21-02.41.52:637][468]LogRHI: Error: Shader: <unknown>
+[2026.01.21-02.41.52:637][468]LogD3D12RHI: Error: Failed to create pipeline state with combined hash 5BF623532098A1B1, error 80070057.
+[2026.01.21-02.41.52:639][468]LogD3D12RHI: Error: Failed to create pipeline state with combined hash 284F9EC4A9F6A169, error 80070057.
+[2026.01.21-02.41.52:639][468]LogD3D12RHI: Error: Failed to create pipeline state with combined hash 6F128E09061FA7AB, error 80070057.
+[2026.01.21-02.41.52:640][468]LogD3D12RHI: Warning: Failed to create compute PSO with combined hash 0x5BF623532098A1B1:
+[2026.01.21-02.41.52:640][468]LogRHI: Error: Failed to create compute pipeline with hash F0E35A0E8580E897601807976092B9C6B7F7B70D.
+[2026.01.21-02.41.52:640][468]LogRHI: Error: Shader: <unknown>
+[2026.01.21-02.41.52:643][468]LogD3D12RHI: Warning: Failed to create compute PSO with combined hash 0x284F9EC4A9F6A169:
+[2026.01.21-02.41.52:643][468]LogRHI: Error: Failed to create compute pipeline with hash 36D1261555BC9E4B569756550FE713D0CF3969AF.
+[2026.01.21-02.41.52:643][468]LogRHI: Error: Shader: <unknown>
+[2026.01.21-02.41.52:646][468]LogD3D12RHI: Warning: Failed to create compute PSO with combined hash 0x6F128E09061FA7AB:
+[2026.01.21-02.41.52:646][468]LogRHI: Error: Failed to create compute pipeline with hash 044C6F0B4507BE7CDC21B84F758EA949F6262D7D.
+[2026.01.21-02.41.52:646][468]LogRHI: Error: Shader: <unknown>
+[2026.01.21-02.41.52:702][471]LogD3D12RHI: Error: Failed to create pipeline state with combined hash D218E3D6870A2CC2, error 80070057.
+[2026.01.21-02.41.52:702][471]LogD3D12RHI: Warning: Failed to create compute PSO with combined hash 0xD218E3D6870A2CC2:
+[2026.01.21-02.41.52:702][471]LogD3D12RHI: Error: Failed to create pipeline state with combined hash F6A7E45599224122, error 80070057.
+[2026.01.21-02.41.52:702][471]LogD3D12RHI: Warning: Failed to create compute PSO with combined hash 0xF6A7E45599224122:
+[2026.01.21-02.41.52:702][471]LogRHI: Error: Failed to create compute pipeline with hash 72B8380FF87CFD152DEA66EB854A367A3E05B212.
+[2026.01.21-02.41.53:251][508]LogRHI: Error: Failed to create compute pipeline with hash 3358A5C8927B01F967D3AFD7E068E67C57C66ED5.
+[2026.01.21-02.41.53:251][508]LogRHI: Error: Shader: <unknown>
+[2026.01.21-02.41.53:251][508]LogRHI: Error: Shader: <unknown>
+[2026.01.21-02.41.53:252][508]LogD3D12RHI: Error: Failed to create pipeline state with combined hash 0C888AF9491C3ADA, error 80070057.
+[2026.01.21-02.41.53:252][508]LogD3D12RHI: Warning: Failed to create compute PSO with combined hash 0x0C888AF9491C3ADA:
+[2026.01.21-02.41.53:252][508]LogRHI: Error: Failed to create compute pipeline with hash A564408E964C6D14AA409525C1A7EF41AADE23FC.
+[2026.01.21-02.41.53:252][508]LogRHI: Error: Shader: <unknown>
+[2026.01.21-02.41.53:252][508]LogD3D12RHI: Error: Failed to create pipeline state with combined hash 3D4610C080199FB6, error 80070057.
+[2026.01.21-02.41.53:252][508]LogD3D12RHI: Warning: Failed to create compute PSO with combined hash 0x3D4610C080199FB6:
+[2026.01.21-02.41.57:284][776]LogRHI: Error: Failed to create compute pipeline with hash 2FE8279FB0A36957D047436671DB10E46AAE76A2.
+[2026.01.21-02.41.57:284][776]LogRHI: Error: Shader: <unknown>
+[2026.01.21-02.41.57:284][776]LogD3D12RHI: Error: Failed to create pipeline state with combined hash C7D9A1AF61AD3741, error 80070057.
+[2026.01.21-02.41.57:284][776]LogD3D12RHI: Warning: Failed to create compute PSO with combined hash 0xC7D9A1AF61AD3741:
+[2026.01.21-02.41.57:284][776]LogRHI: Error: Failed to create compute pipeline with hash 5EA39DCB1514709E7F55A578CC44377E2D360C15.
+[2026.01.21-02.41.57:284][776]LogRHI: Error: Shader: <unknown>
+[2026.01.21-02.41.57:284][776]LogD3D12RHI: Error: Failed to create pipeline state with combined hash 8963BFB67EA7CD80, error 80070057.
+[2026.01.21-02.41.57:285][776]LogD3D12RHI: Warning: Failed to create compute PSO with combined hash 0x8963BFB67EA7CD80:
+[2026.01.21-02.41.57:285][776]LogRHI: Error: Failed to create compute pipeline with hash 37F7D681C8EC85BFCC2C633A639E6414014B9945.
+[2026.01.21-02.41.59:819][934]LogRHI: Error: Shader: <unknown>
+[2026.01.21-02.41.59:819][934]LogD3D12RHI: Error: Failed to create pipeline state with combined hash 5CD9D54DD81A85EE, error 80070057.
+[2026.01.21-02.41.59:819][934]LogD3D12RHI: Warning: Failed to create compute PSO with combined hash 0x5CD9D54DD81A85EE:
+[2026.01.21-02.41.59:819][934]LogRHI: Error: Failed to create compute pipeline with hash E86739017A8068ACCC08D607DDF65693911CA82A.
+[2026.01.21-02.41.59:819][934]LogRHI: Error: Shader: <unknown>
+[2026.01.21-02.41.59:819][934]LogD3D12RHI: Error: Failed to create pipeline state with combined hash 2A04499B0273EA54, error 80070057.
+[2026.01.21-02.41.59:819][934]LogD3D12RHI: Error: Failed to create pipeline state with combined hash 76D14651BD3715E2, error 80070057.
+[2026.01.21-02.41.59:819][934]LogD3D12RHI: Warning: Failed to create compute PSO with combined hash 0x2A04499B0273EA54:
+[2026.01.21-02.41.59:819][934]LogD3D12RHI: Warning: Failed to create compute PSO with combined hash 0x76D14651BD3715E2:
+[2026.01.21-02.42.00:438][991]LogRHI: Error: Failed to create compute pipeline with hash E3F9EACCFB38C7D0E4E971EDBE5499E87B01C048.
+[2026.01.21-02.42.00:438][991]LogRHI: Error: Failed to create compute pipeline with hash 050632C3410FBA121AE5D04C25E1D81C42B1252C.
+[2026.01.21-02.42.00:438][991]LogRHI: Error: Shader: <unknown>
+[2026.01.21-02.42.00:438][991]LogRHI: Error: Shader: <unknown>
+[2026.01.21-02.42.00:438][991]LogD3D12RHI: Error: Failed to create pipeline state with combined hash 7C7D51E21450464E, error 80070057.
+[2026.01.21-02.42.00:438][991]LogD3D12RHI: Warning: Failed to create compute PSO with combined hash 0x7C7D51E21450464E:
+[2026.01.21-02.42.00:439][991]LogRHI: Error: Failed to create compute pipeline with hash FEBC85D517F20AB3435FE1A6A05E18405C28E9F9.
+[2026.01.21-02.42.00:439][991]LogRHI: Error: Shader: <unknown>
+[2026.01.21-02.42.00:439][991]LogD3D12RHI: Error: Failed to create pipeline state with combined hash 1D0F58012261755D, error 80070057.
+[2026.01.21-02.42.00:439][991]LogD3D12RHI: Warning: Failed to create compute PSO with combined hash 0x1D0F58012261755D:
+[2026.01.21-02.42.02:843][159]LogRHI: Error: Failed to create compute pipeline with hash 1AB21EC73926DD1376BA78BE86165F6713ACBBB3.
+[2026.01.21-02.42.02:843][159]LogRHI: Error: Shader: <unknown>
+[2026.01.21-02.42.02:843][159]LogD3D12RHI: Error: Failed to create pipeline state with combined hash 034C3BD1C360C62B, error 80070057.
+[2026.01.21-02.42.02:843][160]LogD3D12RHI: Warning: Failed to create compute PSO with combined hash 0x034C3BD1C360C62B:
+[2026.01.21-02.42.02:843][160]LogRHI: Error: Failed to create compute pipeline with hash BCB14E37D38AF2499A3B3F3D0EABC216F96B0971.
+[2026.01.21-02.42.02:843][160]LogRHI: Error: Shader: <unknown>
+[2026.01.21-02.42.02:843][160]LogD3D12RHI: Error: Failed to create pipeline state with combined hash FB866C4BAA547073, error 80070057.
+[2026.01.21-02.42.02:843][160]LogD3D12RHI: Warning: Failed to create compute PSO with combined hash 0xFB866C4BAA547073:
+[2026.01.21-02.42.04:760][304]LogRHI: Error: Failed to create compute pipeline with hash 19BC045E4E3C2EDA9287E3BF41D38CC474D00AB8.
+[2026.01.21-02.42.04:760][304]LogRHI: Error: Shader: <unknown>
+[2026.01.21-02.42.04:760][304]LogD3D12RHI: Error: Failed to create pipeline state with combined hash 384B3B9EA4E76250, error 80070057.
+[2026.01.21-02.42.04:760][304]LogD3D12RHI: Warning: Failed to create compute PSO with combined hash 0x384B3B9EA4E76250:
+[2026.01.21-02.42.04:760][304]LogRHI: Error: Failed to create compute pipeline with hash 2EAAC378269C81BECDEFD06B2A15F42B1E98CF44.
+[2026.01.21-02.42.04:760][304]LogRHI: Error: Shader: <unknown>
+[2026.01.21-02.42.04:760][304]LogD3D12RHI: Error: Failed to create pipeline state with combined hash 25895F843CAC1409, error 80070057.
+[2026.01.21-02.42.04:760][304]LogD3D12RHI: Warning: Failed to create compute PSO with combined hash 0x25895F843CAC1409:
+[2026.01.21-02.42.04:760][304]LogRHI: Error: Failed to create compute pipeline with hash 0E53228931FD6992E709C577270801A2280D5A7E.
+[2026.01.21-02.42.05:748][380]LogRHI: Error: Shader: <unknown>
