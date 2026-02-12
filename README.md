@@ -10,6 +10,7 @@ Justin Cooke
 I'm targeting this game to modern Windows machines and am using these IDEs and tools:
 * **Unreal Engine/Editor 5.7** - IDE (https://www.unrealengine.com/)
 * **paint.net 5.1.11** - Windows tool for image creation/editing (https://www.getpaint.net/)
+* **Bfxr** - Sound effect generator tool (https://www.bfxr.net/)
 * **Notepad++** - Powerful text editor (https://notepad-plus-plus.org/)
 * **GitHub** - git repo and issue tracker (https://github.com/)
 
@@ -31,6 +32,10 @@ This is a list of all parameters that can be toggled/adjusted in game, along wit
 | **CTRL + a**         | Toggle AutoPlay On/Off                                                  |
 | **CTRL + g**         | Increase the Gravity                                                    |
 | **CTRL + SHIFT + g** | Decrease the Gravity                                                    |
+| **CTRL + =**         | (the '+' key) Increase the music volume                                 |
+| **CTRL + -**         | Decrease the music volume                                               |
+| **CTRL + SHIFT + =** | (the '+' key) Increase the sound effects volume                         |
+| **CTRL + SHIFT + -** | Decrease the sound effects volume                                       |
 | **CTRL + l**         | Cycles through all available levels (can use to force load a new level) |
 
 ## Interesting Development Notes
@@ -38,3 +43,7 @@ This is a list of all parameters that can be toggled/adjusted in game, along wit
   
   One aspect of BP scripting I really don't like is that it's binary, so any change diffs or code reviews (by examining text files) are basically impossible.  If you write BP scripts, you pretty much need to load them in the UE to view the logic.  To me, that's a serious drawback and will prompt me to put as much logic as possible into C++ classes/code for future Unreal projects.
 ![A sample from the Brick Blueprint.](docs/sampleBPScript.png)
+
+## Credits
+**Music:**
+* Free music created by [DOS88](https://dos88.itch.io/) and obtained from [DOS-88 Synthwave Music Library on itch.io](https://dos88.itch.io/dos-88-music-library)  
