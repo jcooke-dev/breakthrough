@@ -46,4 +46,4 @@ This is a list of all parameters that can be toggled/adjusted in game, along wit
 
 ## Credits
 **Music:**
-* Free music created by [DOS88](https://dos88.itch.io/) and obtained from [DOS-88 Synthwave Music Library on itch.io](https://dos88.itch.io/dos-88-music-library)  
+* Music created by [DOS88](https://dos88.itch.io/) (get it here [DOS-88 FULL DISCOGRAPHY MUSIC PACK on itch.io](https://dos88.itch.io/dos-88musicpack))  
