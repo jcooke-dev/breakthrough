@@ -1,7 +1,11 @@
 # Breakthrough
 
 Breakthrough is a relatively simple 2.5D arcade game that I'm developing with the Unreal Engine (UE).  It involves a bouncing ball, a deflecting paddle, and destroyable blocks.  I'm forcing myself to create all game logic in the UE Blueprint scripting system.  I hope to make Breakthrough a fun game, but I'm developing this primarily as a learning exercise and to gain experience with Unreal and Blueprints.
-![Breakthrough during play.](docs/sampleGameplay.png)
+
+| | |
+|---|---|
+| ![Main Menu](docs/mainMenu.png) | ![Classic Play](docs/classicPlay.png) |
+| ![2.5D Death Valley Play](docs/deathValleyPlay.png) | ![2.5D Stellar Shrapnel Play](docs/stellarPlay.png) |
 
 ## Developers
 Justin Cooke
@@ -9,6 +13,7 @@ Justin Cooke
 ## Development Environment
 I'm targeting this game to modern Windows machines and am using these IDEs and tools:
 * **Unreal Engine/Editor 5.7** - IDE (https://www.unrealengine.com/)
+* **Blender 5.0.1** - 3D mesh creation tool (https://www.blender.org/)
 * **paint.net 5.1.11** - Windows tool for image creation/editing (https://www.getpaint.net/)
 * **Bfxr** - Sound effect generator tool (https://www.bfxr.net/)
 * **Notepad++** - Powerful text editor (https://notepad-plus-plus.org/)
@@ -16,7 +21,7 @@ I'm targeting this game to modern Windows machines and am using these IDEs and t
 
 ## Gameplay and Features
 
-Breakthrough is a very simple game to play and will probably remind some of you older readers of an arcade game from the late 70s.  The player just presses the Spacebar to launch the ball and can pause/unpause the game with the ESC key.  Use mouse movement or the arrow keys to slide the paddle back and forth across the bottom of the play area.  Just keep the ball from falling below/past the paddle!
+Breakthrough is a very simple game to play and will probably remind some of you older readers of an arcade game from the late 70s.  The player just presses the spacebar or left-clicks the mouse to launch the ball and can pause the game with the ESC key or a mouse right-click.  Use mouse movement or the arrow keys to slide the paddle back and forth across the bottom of the play area.  Just keep the ball from falling below/past the paddle!
 
 I've added some features to aid development and game balance/testing/tweaking efforts.  Primarily, this is the **Dev Overlay**.  Access this with the **CTRL+d** key combination.  This allows you to see the various toggles and motion-influencing parameters.  These include the UE ProjectileMovement gravity scale and the current ball speed.  All dev controls are adjustable with the key combinations specified below, even if the Developer Overlay is hidden.
 
@@ -46,4 +51,6 @@ This is a list of all parameters that can be toggled/adjusted in game, along wit
 
 ## Credits
 **Music:**
-* Music created by [DOS88](https://dos88.itch.io/) (get it here [DOS-88 FULL DISCOGRAPHY MUSIC PACK on itch.io](https://dos88.itch.io/dos-88musicpack))  
+* Music created by [DOS88](https://dos88.itch.io/) (get it here [DOS-88 FULL DISCOGRAPHY MUSIC PACK on itch.io](https://dos88.itch.io/dos-88musicpack))
+**Art:**
+* Main Menu background art created by Finch Cooke
